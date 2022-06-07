@@ -1,0 +1,38 @@
+body {
+    background-color: #FFCC00;
+    font-family: 'Verdana', 'Arival', sans-serif;
+    color: #262626;
+  }
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+img.main_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width:300px;
+}
+
+ul.main_nav{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+li.main_nav{
+    list-style: none;
+    margin-left:20px;
+}
+
+tr{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
