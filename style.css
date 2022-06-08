@@ -30,7 +30,9 @@ li.main_nav{
     list-style: none;
     margin-left:20px;
 }
-
+th {
+    width: 135px;
+}
 tr{
     display: block;
     margin-left: auto;
